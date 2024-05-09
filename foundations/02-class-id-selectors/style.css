@@ -1,0 +1,21 @@
+/*my css file for exercise 2*/
+.paragraph-odd {
+            background-color: #ffbbff;
+            font-family: Verdana, Geneva, sans-serif;
+}
+
+.fontsize24 {
+            font-size: 24px;
+}
+
+#Line2 {
+        color: #0000ff;
+        font-size: 36px;
+
+}
+
+#Line4 {
+        background-color: #00ff00;
+        font-size: 24px;
+        font-weight: bold;
+}
