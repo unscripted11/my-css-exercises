@@ -1,0 +1,14 @@
+.mono,.hazard {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.mono {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.hazard {
+    background-color: yellow;  
+}
